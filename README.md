@@ -12,7 +12,7 @@ Projeto de Introdução à JavaScript e Lógica de Programação - [playground f
 
 Projeto de JavaScript: DOM, Eventos e Web Storage - [pixels art](https://github.com/gabiru1/Arte-com-Pixels)
 
-Projeto de JavaScript: DOM, Eventos e Web Storage -[todo list](https://github.com/gabiru1/Lista-de-Tarefas)
+Projeto de JavaScript: DOM, Eventos e Web Storage -[todo list](https://github.com/hsbicalho/To-do-List)
 
 Projeto de HTML e CSS: Forms, Flexbox e Responsivo - [trybewarts](https://github.com/gabiru1/Trybewarts)
 
