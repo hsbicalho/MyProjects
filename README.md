@@ -28,7 +28,7 @@ Projeto de Introdução à React - [Solar System](https://github.com/hsbicalho/S
 
 Projeto de Componentes com Estado, Eventos e Formulários com React - [Tryunfo](https://github.com/hsbicalho/Tryunfo)
 
-Projeto de Ciclo de Vida de Componentes e React Router - [trybetunes]()
+Projeto de Ciclo de Vida de Componentes e React Router - [trybetunes](https://github.com/hsbicalho/Trybetunes)
 
 Projeto de Ciclo de Vida de Componentes e React Router em grupo de 5 pessoas - [frontEnd-online-store]()  
 
