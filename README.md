@@ -18,7 +18,7 @@ Projeto de HTML e CSS: Forms, Flexbox e Responsivo - [trybewarts](https://github
 
 Projeto de ES6 e Testes Unitários! - [unit tests](https://github.com/hsbicalho/js-unit-tests)
 
-Projeto de ES6 e Higher Order Functions! - [zoo functions](https://github.com/gabiru1/Zoo-Functions)
+Projeto de ES6 e Higher Order Functions! - [zoo functions](https://github.com/hsbicalho/Zoo-Functions)
 
 Projeto de JavaScript Assíncrono e Promises - [shopping cart](https://github.com/gabiru1/Carrinho-de-Compras)
 
