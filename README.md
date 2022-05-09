@@ -6,7 +6,7 @@ Guia de links referente aos projetos feitos nos meus estudos na Trybe.
 
 ## TRYBE - Fundamentos JavaScript, HTML, CSS e Lógica de Programação
 
-Projeto de Introdução à HTML e CSS - [lesson learned](https://github.com/gabiru1/Lessons-Learned)
+Projeto de Introdução à HTML e CSS - [lesson learned](https://github.com/hsbicalho/Project-Lessons-learned)
 
 Projeto de Introdução à JavaScript e Lógica de Programação - [playground function](https://github.com/gabiru1/Playground-Functions)
 
