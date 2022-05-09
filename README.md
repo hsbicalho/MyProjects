@@ -8,7 +8,7 @@ Guia de links referente aos projetos feitos nos meus estudos na Trybe.
 
 Projeto de Introdução à HTML e CSS - [lesson learned](https://github.com/hsbicalho/Project-Lessons-learned)
 
-Projeto de Introdução à JavaScript e Lógica de Programação - [playground function](https://github.com/gabiru1/Playground-Functions)
+Projeto de Introdução à JavaScript e Lógica de Programação - [playground function](https://github.com/hsbicalho/Playground-Functions)
 
 Projeto de JavaScript: DOM, Eventos e Web Storage - [pixels art](https://github.com/gabiru1/Arte-com-Pixels)
 
