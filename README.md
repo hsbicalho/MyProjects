@@ -2,7 +2,7 @@
 
 Guia de links referente aos projetos feitos nos meus estudos na Trybe.
 
-### 2021
+### 2022
 
 ## TRYBE - Fundamentos JavaScript, HTML, CSS e Lógica de Programação
 
