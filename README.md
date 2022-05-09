@@ -20,6 +20,5 @@ Projeto de ES6 e Testes Unitários! - [unit tests](https://github.com/hsbicalho/
 
 Projeto de ES6 e Higher Order Functions! - [zoo functions](https://github.com/hsbicalho/Zoo-Functions)
 
-Projeto de JavaScript Assíncrono e Promises - [shopping cart](https://github.com/gabiru1/Carrinho-de-Compras)
+Projeto de JavaScript Assíncrono e Promises - [shopping cart](https://github.com/hsbicalho/Shopping-Cart)
 
-Projeto de Testes automatizados com Jest - [testes com jest](https://github.com/gabiru1/Jest-Ass-ncrono-e-Mocking)
