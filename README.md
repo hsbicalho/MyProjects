@@ -16,7 +16,7 @@ Projeto de JavaScript: DOM, Eventos e Web Storage -[todo list](https://github.co
 
 Projeto de HTML e CSS: Forms, Flexbox e Responsivo - [trybewarts](https://github.com/hsbicalho/Trybewarts)
 
-Projeto de ES6 e Testes Unitários! - [unit tests](https://github.com/gabiru1/JavaScript-Teste-Unit-rios)
+Projeto de ES6 e Testes Unitários! - [unit tests](https://github.com/hsbicalho/js-unit-tests)
 
 Projeto de ES6 e Higher Order Functions! - [zoo functions](https://github.com/gabiru1/Zoo-Functions)
 
