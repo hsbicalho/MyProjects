@@ -10,7 +10,7 @@ Projeto de Introdução à HTML e CSS - [lesson learned](https://github.com/hsbi
 
 Projeto de Introdução à JavaScript e Lógica de Programação - [playground function](https://github.com/hsbicalho/Playground-Functions)
 
-Projeto de JavaScript: DOM, Eventos e Web Storage - [pixels art](https://github.com/gabiru1/Arte-com-Pixels)
+Projeto de JavaScript: DOM, Eventos e Web Storage - [pixels art](https://github.com/hsbicalho/Pixel-Art)
 
 Projeto de JavaScript: DOM, Eventos e Web Storage -[todo list](https://github.com/hsbicalho/To-do-List)
 
