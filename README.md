@@ -14,7 +14,7 @@ Projeto de JavaScript: DOM, Eventos e Web Storage - [pixels art](https://github.
 
 Projeto de JavaScript: DOM, Eventos e Web Storage -[todo list](https://github.com/hsbicalho/To-do-List)
 
-Projeto de HTML e CSS: Forms, Flexbox e Responsivo - [trybewarts](https://github.com/gabiru1/Trybewarts)
+Projeto de HTML e CSS: Forms, Flexbox e Responsivo - [trybewarts](https://github.com/hsbicalho/Trybewarts)
 
 Projeto de ES6 e Testes Unitários! - [unit tests](https://github.com/gabiru1/JavaScript-Teste-Unit-rios)
 
