@@ -22,3 +22,14 @@ Projeto de ES6 e Higher Order Functions! - [zoo functions](https://github.com/hs
 
 Projeto de JavaScript Assíncrono e Promises - [shopping cart](https://github.com/hsbicalho/Shopping-Cart)
 
+## TRYBE - Front end: [ ReactJS, Redux, Metodologias Ágeis, Context api, Hooks e RTL ]
+
+Projeto de Introdução à React - [Solar System](https://github.com/hsbicalho/Solar-System)
+
+Projeto de Componentes com Estado, Eventos e Formulários com React - [Tryunfo](https://github.com/hsbicalho/Tryunfo)
+
+Projeto de Ciclo de Vida de Componentes e React Router - [trybetunes]()
+
+Projeto de Ciclo de Vida de Componentes e React Router em grupo de 5 pessoas - [frontEnd-online-store]()  
+
+Projeto de Testes automatizados com React Testing Library - [react testing library]()
