@@ -32,6 +32,6 @@ Projeto de Ciclo de Vida de Componentes e React Router - [trybetunes](https://gi
 
 Projeto de Ciclo de Vida de Componentes e React Router em grupo de 5 pessoas - [frontEnd-online-store](https://github.com/hsbicalho/Front-end-oline-store)  
 
-Projeto de Testes automatizados com React Testing Library - [react testing library]()
+Projeto de Testes automatizados com React Testing Library - [react testing library](https://github.com/hsbicalho/ReactTestingLibrary)
 
 Projeto React.js com Redux - [TrybeWallet](https://github.com/hsbicalho/TrybeWallet)
