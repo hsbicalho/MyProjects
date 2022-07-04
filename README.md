@@ -37,3 +37,5 @@ Projeto de Testes automatizados com React Testing Library - [react testing libra
 Projeto React.js com Redux - [TrybeWallet](https://github.com/hsbicalho/TrybeWallet)
 
 Projeto React.js com Redux (Em Grupo) - [TriviaGame](https://github.com/hsbicalho/TriviaGame)
+
+Projeto StarWarsPlanets com Context API - [StarWars](https://github.com/hsbicalho/StarWars)
