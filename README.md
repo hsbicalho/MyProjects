@@ -50,4 +50,4 @@ Projeto de criação de uma API RESTful em Node.js com mySql - [Store manager](h
 
 Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://github.com/hsbicalho/Blogs-API)
 
-Projeto de deploy no heroku, back-end e front-end - back-dw | back-up | Stranger Thingsd Front-End
+Projeto de deploy no heroku, back-end e front-end - [Backend](https://github.com/hsbicalho/Stranger-Things-Backend) Stranger Thingsd Front-End
