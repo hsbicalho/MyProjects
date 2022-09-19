@@ -42,7 +42,7 @@ Projeto StarWarsPlanets com Context API - [StarWars](https://github.com/hsbicalh
 
 Projeto App de receita com Context API e Styled Component [Recipe-APP](https://github.com/hsbicalho/Recipe-App)
 
-TRYBE - Back end: [ Docker, MySQL, Node.js, TypeScript ]
+## TRYBE - Back end: [ Docker, MySQL, Node.js, TypeScript ]
 
 Projeto de criação e utilização de endpoints em Node.js - [Talker manager](https://github.com/hsbicalho/Talker-Manager)
 
