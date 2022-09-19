@@ -50,4 +50,4 @@ Projeto de criação de uma API RESTful em Node.js com mySql - [Store manager](h
 
 Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://github.com/hsbicalho/Blogs-API)
 
-Projeto de deploy no heroku, back-end e front-end - [Backend Repo](https://github.com/hsbicalho/Stranger-Things-Backend) [Frontend Repo](https://github.com/hsbicalho/Stranger-Things-Frontend)
+Projeto de deploy no heroku, back-end e front-end - [Backend Repo](https://github.com/hsbicalho/Stranger-Things-Backend)-[Frontend Repo](https://github.com/hsbicalho/Stranger-Things-Frontend)
