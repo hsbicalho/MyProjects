@@ -41,3 +41,13 @@ Projeto React.js com Redux (Em Grupo) - [TriviaGame](https://github.com/hsbicalh
 Projeto StarWarsPlanets com Context API - [StarWars](https://github.com/hsbicalho/StarWars)
 
 Projeto App de receita com Context API e Styled Component [Recipe-APP](https://github.com/hsbicalho/Recipe-App)
+
+TRYBE - Back end: [ Docker, MySQL, Node.js, TypeScript ]
+
+Projeto de criação e utilização de endpoints em Node.js - [Talker manager](https://github.com/hsbicalho/Talker-Manager)
+
+Projeto de criação de uma API RESTful em Node.js com mySql - [Store manager](https://github.com/hsbicalho/Store-Manager)
+
+Projeto de construção de back-end usando ORM sequelize - [Blogs-API](https://github.com/hsbicalho/Blogs-API)
+
+Projeto de deploy no heroku, back-end e front-end - back-dw | back-up | Stranger Thingsd Front-End
